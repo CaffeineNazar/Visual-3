@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'profile.ui'
+# Form implementation generated from reading ui file 'Profile.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.11
 #
@@ -97,6 +97,20 @@ class Ui_MainWindow(object):
         self.pushButton_2.setText(_translate("MainWindow", "Edit"))
         self.pushButton_3.setText(_translate("MainWindow", "Hapus"))
         self.pushButton_4.setText(_translate("MainWindow", "Batal"))
+        self.lineEdit.setText(_translate("MainWindow", "2210010269"))
+        self.lineEdit.setPlaceholderText(_translate("MainWindow", "2210010269"))
+        self.lineEdit_2.setText(_translate("MainWindow", "Muhammad Nazarul Iman"))
+        self.lineEdit_2.setPlaceholderText(_translate("MainWindow", "Muhammad Nazarul Iman"))
+        self.lineEdit_3.setText(_translate("MainWindow", "Jl. Amuntai-Alabio, Komplek Sederhana Panyiuran"))
+        self.lineEdit_3.setPlaceholderText(_translate("MainWindow", "Jl. Amuntai-Alabio, Komplek Sederhana Panyiuran"))
+        self.lineEdit_4.setText(_translate("MainWindow", "089609682030"))
+        self.lineEdit_4.setPlaceholderText(_translate("MainWindow", "089609682030"))
+        self.lineEdit_5.setText(_translate("MainWindow", "5M"))
+        self.lineEdit_5.setPlaceholderText(_translate("MainWindow", "5M"))
+        self.lineEdit_6.setText(_translate("MainWindow", "Amuntai"))
+        self.lineEdit_6.setPlaceholderText(_translate("MainWindow", "Amuntai"))
+        self.lineEdit_7.setText(_translate("MainWindow", "30-April-2004"))
+        self.lineEdit_7.setPlaceholderText(_translate("MainWindow", "30-April-2004"))
 
 
 if __name__ == "__main__":
